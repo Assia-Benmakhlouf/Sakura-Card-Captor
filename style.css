@@ -1,17 +1,17 @@
 h1{
-	color: crimson;
+	color: #E5FFE0;
 	text-align: center;
-	text-shadow: 5px 5px 2px hotpink;
+	text-shadow: 2px 2px 2px #E0FFEA;
 }
 
 h2{
 	font-family: monospaces;, serif;
 	font-style: italic;
-	color: peachpuff;
+	color: #FF764A;
 }
 
 h3{
-	color: peachpuff;
+	color: #FF764A ;
 }
 
 p{
@@ -42,8 +42,4 @@ video{
 
 #meme {
 	 filter: saturate(40);
-}
-
-#bow{
-
 }
